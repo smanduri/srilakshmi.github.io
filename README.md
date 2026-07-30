@@ -5,9 +5,6 @@ With 10+ years of software development experience, I have worked on complex ente
 
 Java • Spring Boot • Angular • React • Node.js • NestJS • TypeScript • Microservices • REST APIs • SQL • AWS • Azure • Docker • Kubernetes
 
-## Navigation
-
-[About](#About Me)  [Skills](#Technical Expertise)  [Projects](#Featured Work)  [Process](#How I Build Software)  [Experience](#Experience)  [Contact](#Lets Connect)
 
 ## About Me
 
